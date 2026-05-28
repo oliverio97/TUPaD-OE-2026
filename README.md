@@ -7,7 +7,7 @@
 | Rol | Nombre | Usuario GitHub |
 |-----|--------|---------------|
 | P1 Líder / P3 Revisor | Oliverio Arce | oliverio97 |
-| P2 Desarrollador | Magnello Marcos | marcos-m |
+| P2 Desarrollador | Magnello Marcos | marcos-mag |
 
 ## Escenario elegido
 **Escenario B — Análisis de Ventas de una Pequeña Empresa**
@@ -22,7 +22,7 @@ id, fecha_venta, producto, cantidad, precio_unitario, venta_total.
 - /resultados → Gráficos y resumen del análisis
 
 ## Instrucciones para ejecutar
-1. Clonar el repositorio
-2. Abrir Google Colab
+1. Abrir Google Colab
+2. Clonar el repositorio
 3. Ejecutar scripts/analisis_datos.py
 4. Los resultados se guardan automáticamente en /resultados
